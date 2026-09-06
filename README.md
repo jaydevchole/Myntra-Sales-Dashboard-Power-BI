@@ -119,7 +119,3 @@ M.Sc. Data Science | Data Analyst
 [LinkedIn](https://www.linkedin.com/in/jaydev-chole-b3313b327/)
 
 ````
-
-**Important:** README mein `2024–2026 Myntra data` mat likhna. Tumhare current dataset ke according **2021–March 2023** hi correct hai.
-
-Aur GitHub par dataset upload karne se pehle uske **source/license** ko check kar lena. Publicly available hona automatically unrestricted reuse ka permission nahi hota.
