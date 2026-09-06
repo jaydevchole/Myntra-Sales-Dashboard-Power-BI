@@ -97,10 +97,6 @@ DIVIDE(
 )
 ```
 
-## 📷 Dashboard Preview
-
-![Myntra Sales Overview Dashboard](Screenshot 2026-09-06 180017.png)
-
 ## 💡 Skills Demonstrated
 
 * Data Cleaning & Transformation
@@ -122,7 +118,6 @@ M.Sc. Data Science | Data Analyst
 
 [LinkedIn](https://www.linkedin.com/in/jaydev-chole-b3313b327/)
 
-````
 ````
 
 **Important:** README mein `2024–2026 Myntra data` mat likhna. Tumhare current dataset ke according **2021–March 2023** hi correct hai.
