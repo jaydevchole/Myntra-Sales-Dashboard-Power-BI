@@ -99,7 +99,7 @@ DIVIDE(
 
 ## 📷 Dashboard Preview
 
-![Myntra Sales Overview Dashboard](dashboard.png)
+![Myntra Sales Overview Dashboard](Screenshot 2026-09-06 180017.png)
 
 ## 💡 Skills Demonstrated
 
